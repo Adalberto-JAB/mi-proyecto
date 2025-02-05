@@ -1,0 +1,20 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "fffghh",
+  "homepage": "https://github.com/Adalberto-JAB/mi-proyecto#readme",
+  "bugs": {
+    "url": "https://github.com/Adalberto-JAB/mi-proyecto/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adalberto-JAB/mi-proyecto.git"
+  },
+  "license": "ISC",
+  "author": "JAB",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
